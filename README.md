@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/banner.jpeg" alt="banner">
 
-## <p align="center">I am Software Engineer 💻</br>and I ❤️ Open Source</br></p>
+## <p align="center">I am a Software Engineer 💻</br>and I ❤️ Open Source</br></p>
 
 Connect with me on [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda) to learn more about me!
 
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
