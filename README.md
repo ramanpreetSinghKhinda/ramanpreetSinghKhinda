@@ -1,8 +1,8 @@
 # Hi, I'm Raman 👋
 
-<img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/coder.jpg" alt="banner" align="right">
+<p align="center">I am a Software Engineer 💻</br>and I ❤️ Open Source</br></p>
 
-## <p align="center">I am a Software Engineer 💻</br>and I ❤️ Open Source</br></p>
+<img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/coder.jpg" alt="banner" align="right">
 
 - 🔭 I’m currently working on [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon)
 - 💬 Ask me about Android
