@@ -1,22 +1,12 @@
 # Hi, I'm Raman 👋
 
-<img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/banner.jpeg" alt="banner">
+<img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/coder.jpg" alt="banner" align="right">
 
 ## <p align="center">I am a Software Engineer 💻</br>and I ❤️ Open Source</br></p>
 
+- 🔭 I’m currently working on [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon)
+- 💬 Ask me about Android
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I share my birthdate with [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) ✨
+
 Connect with me on [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda) to learn more about me!
-
-<!--
-**ramanpreetSinghKhinda/ramanpreetSinghKhinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
