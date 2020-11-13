@@ -2,7 +2,7 @@
 
 <p align="center">I am a Software Engineer 💻</br>and I ❤️ Open Source</br></p>
 
-<img src="https://github.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/blob/master/coder.jpg" alt="banner" width=400 height=400 align="right">
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" alt="banner" width="300px" align="right">
 
 - 🔭 I’m currently working on [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon)
 - 💬 Ask me about Android
