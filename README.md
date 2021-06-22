@@ -1,6 +1,6 @@
 ### Hi, I'm Raman 👋
 
-<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" alt="banner" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/ramanpreetSinghKhinda/ramanpreetSinghKhinda/master/Snap-bitmoji.png" alt="banner" width="300px" align="right">
 
 🔭 I'm currently working on [Snap Kit SDKs](https://kit.snapchat.com/)
 
